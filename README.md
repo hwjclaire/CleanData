@@ -23,7 +23,7 @@ Files:
 run_analysis.R:         executable R script for the objects
 data.zip:               downloaded raw data zip file
 data/:                  raw data folder extracted from zip
-Codebook.R:             description of methods in run_analysis.R
+Codebook.md:            description of methods in run_analysis.R
 FinalData.txt:          tidy data after merging and exctraction
 AverageByActivity.txt:  averaged Data for different activities
 AverageBySubject.txt:   averaged Data for different subjects
